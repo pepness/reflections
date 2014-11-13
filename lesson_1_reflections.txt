@@ -1,0 +1,39 @@
+En vez de comparar linea por linea ambos archivos con el comando 'diff'
+me muestra directamente las lineas con diferencia entre ambos archivos
+eficientando notablemente el tiempo de la tarea.
+
+How could having easy access to the entire history of a file make you 
+a more efficient programmer in the long term?
+-Para poder tener un mejor control respecto a las modificaciones que
+se hacen a un archivo y así poder regresar a un punto en especifico
+en el historial del archivo.
+
+What do you think are the pros and cons of manually choosing when to
+create a commit, like you do in Git, vs having versions automatically
+saved, like Google docs does?
+-La desventaja de hacer manualmente los commits es la predisposicion
+del error humano ya que se podria olvidar hacer commits. La ventaja es
+que tambien se tiene total control de hacer los commits cuando deben de
+hacerse sin importar el tiempo que tome ya que si se hiciera de manera
+automatica se podrian hacer commits cuando no existe un cambio logíco.
+
+Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat
+each file separately?
+-Por que al estar orientado a programadores es común tener proyectos
+que involucren archivos altamante acoplados.
+
+How can you use the commands git log and git diff to view the history
+of files?
+-El comando 'git log' es para ver en orden cronologico y ascendente los
+commits efectuados, el comando 'git diff' es para comparar dos versiones
+y así poder analizar los cambios efectuados.
+
+How might using version control make you more confident to make changes
+that could break something?
+-Por que tendre la certeza de poder volver unas cuantas versiones atras
+y detectar los bugs que hayan aparecido.
+
+Now that you have your workspace set up, what do you want to try using
+Git for?
+-Creación, modificación y mantenimiento de proyectos

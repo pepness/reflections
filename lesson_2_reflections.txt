@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+-Cuando inicializas un repositorio se crea la carpeta '.git', esto es
+necesario para empesar a usar Git dentro de una carpeta la cual tendra
+archivos que necesitan Version Control.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+-El Staging area es el puente de tu directorio de trabajo hacia el
+repositorio y en el que te ofrece el control de que archivos pasan en
+un commit.

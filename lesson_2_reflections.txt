@@ -8,3 +8,9 @@ repository? What value do you think it offers?
 -El Staging area es el puente de tu directorio de trabajo hacia el
 repositorio y en el que te ofrece el control de que archivos pasan en
 un commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+-Se puede hacer mediante un doble chequeo con los comandos 'git diff' y
+'git diff --staged' para así estar seguros de al hacer un commit.
+

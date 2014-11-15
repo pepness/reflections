@@ -19,3 +19,7 @@ history organized? How would branches help?
 -Principalmente cuando se quiere modificar algo sin tener que arriesgar
 la master branch. Son de mucha ayuda ya que en cualquier momento se puede
 fusionar una rama con otra y asi unir sus desarrollos.
+
+How do the diagrams help you visualize the branch structure?
+-Al tener los diagramas puedo ver claramente la vista global del
+repositorio con todas sus ramas y así saber donde esta cada cosa.

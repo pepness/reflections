@@ -6,3 +6,9 @@ mi repositorio alojado en GitHub.
 stay up-to-date with your remote repository?
 R. Por que es posible que los commits que estan en GitHub no se integren a lo que tengo en
 mi repositorio local.
+
+3.-¿Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+R. Fork solo se para clonar repositorios dentro de GitHub. Clone se utiliza para clonar
+repositorios de GitHub hacia mi maquina o clonar dentro de mi maquina. Braches son flujos
+alternos de desarrollo dentro de un repositorio.

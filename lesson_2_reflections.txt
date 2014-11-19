@@ -1,38 +1,38 @@
-What happens when you initialize a repository? Why do you need to do it?
--Cuando inicializas un repositorio se crea la carpeta '.git', esto es
+1-.¿What happens when you initialize a repository? Why do you need to do it?
+R. Cuando inicializas un repositorio se crea la carpeta '.git', esto es
 necesario para empesar a usar Git dentro de una carpeta la cual tendra
 archivos que necesitan Version Control.
 
-How is the staging area different from the working directory and the
+2-.¿How is the staging area different from the working directory and the
 repository? What value do you think it offers?
--El Staging area es el puente de tu directorio de trabajo hacia el
+R. El Staging area es el puente de tu directorio de trabajo hacia el
 repositorio y en el que te ofrece el control de que archivos pasan en
 un commit.
 
-How can you use the staging area to make sure you have one commit per logical
+3-.¿How can you use the staging area to make sure you have one commit per logical
 change?
--Se puede hacer mediante un doble chequeo con los comandos 'git diff' y
+R. Se puede hacer mediante un doble chequeo con los comandos 'git diff' y
 'git diff --staged' para así estar seguros de al hacer un commit.
 
-What are some situations when branches would be helpful in keeping your
+4-.¿What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
--Principalmente cuando se quiere modificar algo sin tener que arriesgar
+R. Principalmente cuando se quiere modificar algo sin tener que arriesgar
 la master branch. Son de mucha ayuda ya que en cualquier momento se puede
 fusionar una rama con otra y asi unir sus desarrollos.
 
-How do the diagrams help you visualize the branch structure?
--Al tener los diagramas puedo ver claramente la vista global del
+5-.¿How do the diagrams help you visualize the branch structure?
+R. Al tener los diagramas puedo ver claramente la vista global del
 repositorio con todas sus ramas y así saber donde esta cada cosa.
 
-What is the result of merging two branches together? Why do we represent
+6-.¿What is the result of merging two branches together? Why do we represent
 it in the diagram the way we do?
--El resultado es una combinacion de los commits de ambas ramas en una sola.
+R. El resultado es una combinacion de los commits de ambas ramas en una sola.
 Se representa de esa manera en el diagrama ya que indica claramente el proceso
 de merging y el nuevo reachability de la rama que obtuvo los commits. Tambien
 clarifica que pasa con los commits y la rama que fue eliminada.
 
-What are the pros and cons of Git’s automatic merging vs. always doing
+7-.¿What are the pros and cons of Git’s automatic merging vs. always doing
 merges manually?
--Pros. La simplificacion y velocidad con que se hacen las mezclas.
+R. Pros. La simplificacion y velocidad con que se hacen las mezclas.
 Cons. Se tiene un control mas especifico respecto a como debe funcionar
 la mezcla.

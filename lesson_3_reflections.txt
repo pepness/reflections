@@ -1,0 +1,5 @@
+1-¿When would you want to use a remote repository rather than keeping all your work local?
+R. Cuando no trabajo con una sola computadora, así podre trabajar desde cualquier lugar en
+mi repositorio alojado en GitHub.
+
+2.-¿

@@ -2,4 +2,7 @@
 R. Cuando no trabajo con una sola computadora, así podre trabajar desde cualquier lugar en
 mi repositorio alojado en GitHub.
 
-2.-¿
+2.-¿Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+R. Por que es posible que los commits que estan en GitHub no se integren a lo que tengo en
+mi repositorio local.

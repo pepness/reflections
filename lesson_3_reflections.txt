@@ -12,3 +12,15 @@ instead of another?
 R. Fork solo se para clonar repositorios dentro de GitHub. Clone se utiliza para clonar
 repositorios de GitHub hacia mi maquina o clonar dentro de mi maquina. Braches son flujos
 alternos de desarrollo dentro de un repositorio.
+
+4.-¿What is the benefit of having a copy of the last known state of the remote stored locally?
+R. El beneficio esta en que si existe algun cambio en el repositorio remoto que no fue echo por
+mi tendria esos cambios en mi copia del repositorio remoto, con esto me aseguro de estar
+actualizado a GitHub. Esto es necesario cuando se comparte un repositorio remoto con otras
+personas.
+
+5.-¿How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+R. Tendria que hacerse con un control de versiones proprio y tener mucha comunición con
+tu equipo de trabajo. Lo más dificil sería estar bien comunicado con tus colaboradores y lo
+más facil sería hacer respaldos.

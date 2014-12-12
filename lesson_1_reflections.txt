@@ -1,15 +1,15 @@
 1.-¿How did viewing a diff between two versions of a file help you see 
 the bug that was introduced?
 
-R. Instead of comparing every line on the files with 'diff' i will see
-the lines that are diferent, so in the end i will be more focus on those
-lines and i will be more efficient.
+R. Instead of comparing every line on the files with the command 'diff'
+i will see the lines that are diferent, so in the end i will be more 
+focused on those lines and i will be more efficient.
 
 2.-¿How could having easy access to the entire history of a file make you 
 a more efficient programmer in the long term?
 
 R. It help to achive a better version control over the modifications been
-made on a file so you can return to a specific point in the history file 
+made on a file so you can return to a specific point in the history file.
 
 3.-¿What do you think are the pros and cons of manually choosing when to
 create a commit, like you do in Git, vs having versions automatically

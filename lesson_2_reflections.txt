@@ -1,8 +1,8 @@
 1-.¿What happens when you initialize a repository? Why do you need to do it?
 
 R. When you initialize a repository it creates the '.git' directory in the
-location where you use 'git init', this is needed to start using version
-control inside a directory.
+location where you use the 'git init' command, this is needed to start using
+version control inside a directory.
 
 2-.¿How is the staging area different from the working directory and the
 repository? What value do you think it offers?
@@ -23,7 +23,7 @@ history organized? How would branches help?
 
 R. Basically when you want to modify something and you do not want to do it in
 the stable branch. Branches are very helpful becuase you can merge it with
-other branches in any moment and merge the code and later test it.
+other branches in any moment and merge the commits and later test it.
 
 5-.¿How do the diagrams help you visualize the branch structure?
 

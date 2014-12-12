@@ -2,16 +2,25 @@
 R. Cuando no trabajo con una sola computadora, así podre trabajar desde cualquier lugar en
 mi repositorio alojado en GitHub.
 
+R. When i work on more than one device or place.
+
 2.-¿Why might you want to always pull changes manually rather than having Git automatically
 stay up-to-date with your remote repository?
 R. Por que es posible que los commits que estan en GitHub no se integren a lo que tengo en
 mi repositorio local.
+
+R. Because it is possible that the commits on GitHub does not integrate to what i have in
+my local repository. Maybe i have commits that i have not pushed on GitHub.
 
 3.-¿Describe the differences between forks, clones, and branches. When would you use one
 instead of another?
 R. Fork solo se para clonar repositorios dentro de GitHub. Clone se utiliza para clonar
 repositorios de GitHub hacia mi maquina o clonar dentro de mi maquina. Braches son flujos
 alternos de desarrollo dentro de un repositorio.
+
+R. Fork is used to clone repos only inside GitHub. Clone is used to clone repos from GitHub
+to my machine or cloning repos inside my machine. Branches are alternative development
+workflows inside a repository.
 
 4.-¿What is the benefit of having a copy of the last known state of the remote stored locally?
 R. El beneficio esta en que si existe algun cambio en el repositorio remoto que no fue echo por

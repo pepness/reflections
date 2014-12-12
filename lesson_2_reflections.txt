@@ -23,3 +23,16 @@ fusionar una rama con otra y asi unir sus desarrollos.
 How do the diagrams help you visualize the branch structure?
 -Al tener los diagramas puedo ver claramente la vista global del
 repositorio con todas sus ramas y así saber donde esta cada cosa.
+
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+-El resultado es una combinacion de los commits de ambas ramas en una sola.
+Se representa de esa manera en el diagrama ya que indica claramente el proceso
+de merging y el nuevo reachability de la rama que obtuvo los commits. Tambien
+clarifica que pasa con los commits y la rama que fue eliminada.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+-Pros. La simplificacion y velocidad con que se hacen las mezclas.
+Cons. Se tiene un control mas especifico respecto a como debe funcionar
+la mezcla.

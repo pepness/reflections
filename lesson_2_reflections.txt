@@ -13,3 +13,13 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 -Se puede hacer mediante un doble chequeo con los comandos 'git diff' y
 'git diff --staged' para así estar seguros de al hacer un commit.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+-Principalmente cuando se quiere modificar algo sin tener que arriesgar
+la master branch. Son de mucha ayuda ya que en cualquier momento se puede
+fusionar una rama con otra y asi unir sus desarrollos.
+
+How do the diagrams help you visualize the branch structure?
+-Al tener los diagramas puedo ver claramente la vista global del
+repositorio con todas sus ramas y así saber donde esta cada cosa.

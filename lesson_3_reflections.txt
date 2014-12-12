@@ -24,3 +24,12 @@ what would be harder?
 R. Tendria que hacerse con un control de versiones proprio y tener mucha comunición con
 tu equipo de trabajo. Lo más dificil sería estar bien comunicado con tus colaboradores y lo
 más facil sería hacer respaldos.
+
+6.-¿When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+R. Cuando quiero integrar algo nuevo, probar algo nuevo o simplemente rehacer algo es cuando
+haria los cambios en una rama diferente a la rama master. Los beneficios serian la estabilidad
+que tendria la rama master al no tener ningun cambio que no este lo suficientemente probado,
+otro beneficio seria la eficiencia al momento de desarrollar algo ya que no tienes las cadenas
+de estar atrapado con algo estable o productivo y así poder intentar mas cosas sin temor a romper
+algo.

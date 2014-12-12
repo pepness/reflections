@@ -1,4 +1,6 @@
-En vez de comparar linea por linea ambos archivos con el comando 'diff'
+¿How did viewing a diff between two versions of a file help you see
+the bug that was introduced?
+-En vez de comparar linea por linea ambos archivos con el comando 'diff'
 me muestra directamente las lineas con diferencia entre ambos archivos
 eficientando notablemente el tiempo de la tarea.
 

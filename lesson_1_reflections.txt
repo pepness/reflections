@@ -16,8 +16,8 @@ create a commit, like you do in Git, vs having versions automatically
 saved, like Google docs does?
 
 R. The disadvantage of manually doing Commits is the predisposition
-to human errors as it might forget to do commits. The advantage that
-you have total control of when should Commits have to be done regardless
+to human errors as it might forget to do commits. The advantage would be
+that you have total control of when should Commits have to be done regardless
 of how long it takes because if you do it with Automatic commits this 
 could commit even when there is no logical change.
 
@@ -27,7 +27,7 @@ each file separately?
 
 R. Because Git was made thinking in programmers and by that saving multiples
 files in one commit is normal for us, imagine a project with highly coupled
-files in that case is a good thing commit multiples files.
+files, in that case is a good thing commit multiples files.
 
 5.-¿How can you use the commands git log and git diff to view the history
 of files?

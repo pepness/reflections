@@ -22,18 +22,13 @@ the stable branch. Branches are very helpful becuase you can merge it with
 other branches in any moment and merge the code and later test it.
 
 5-.¿How do the diagrams help you visualize the branch structure?
-R. Al tener los diagramas puedo ver claramente la vista global del
-repositorio con todas sus ramas y así saber donde esta cada cosa.
+R. It gives me a much better global view.
 
 6-.¿What is the result of merging two branches together? Why do we represent
 it in the diagram the way we do?
-R. El resultado es una combinacion de los commits de ambas ramas en una sola.
-Se representa de esa manera en el diagrama ya que indica claramente el proceso
-de merging y el nuevo reachability de la rama que obtuvo los commits. Tambien
-clarifica que pasa con los commits y la rama que fue eliminada.
+R. The result it is a combination of the commits of both branches.
 
 7-.¿What are the pros and cons of Git’s automatic merging vs. always doing
 merges manually?
-R. Pros. La simplificacion y velocidad con que se hacen las mezclas.
-Cons. Se tiene un control mas especifico respecto a como debe funcionar
-la mezcla.
+R. Pros. Better simplification and speed in the merging process.
++Cons. Less control about specifics details on how and what to merge.

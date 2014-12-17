@@ -1,35 +1,40 @@
 1-¿When would you want to use a remote repository rather than keeping all your work local?
-R. Cuando no trabajo con una sola computadora, así podre trabajar desde cualquier lugar en
-mi repositorio alojado en GitHub.
+
+R. When i do my work on more than one device, like a laptop and a PC.
 
 2.-¿Why might you want to always pull changes manually rather than having Git automatically
 stay up-to-date with your remote repository?
-R. Por que es posible que los commits que estan en GitHub no se integren a lo que tengo en
-mi repositorio local.
+
+R. Because it is possible that the commits on GitHub does not integrate to what i have in
+my local repository. Maybe i have commits that i have not pushed on GitHub, my repository
+is ahead of the origin.
 
 3.-¿Describe the differences between forks, clones, and branches. When would you use one
 instead of another?
-R. Fork solo se para clonar repositorios dentro de GitHub. Clone se utiliza para clonar
-repositorios de GitHub hacia mi maquina o clonar dentro de mi maquina. Braches son flujos
-alternos de desarrollo dentro de un repositorio.
+
+R. Fork is used to clone repos only inside GitHub. Clone is used to clone repos from GitHub
+to my machine or cloning repos inside my machine. Branches are alternative development
+workflows inside a repository.
 
 4.-¿What is the benefit of having a copy of the last known state of the remote stored locally?
-R. El beneficio esta en que si existe algun cambio en el repositorio remoto que no fue echo por
-mi tendria esos cambios en mi copia del repositorio remoto, con esto me aseguro de estar
-actualizado a GitHub. Esto es necesario cuando se comparte un repositorio remoto con otras
-personas.
+
+R. It is useful if there is some commits existing on GitHub that i did not do it, then
+i could have those commits in my local copy, with this i assure to be update with GitHub.
+This is necessary when you collaborate with other people in the same repository.
 
 5.-¿How would you collaborate without using Git or GitHub? What would be easier, and
 what would be harder?
-R. Tendria que hacerse con un control de versiones proprio y tener mucha comunición con
-tu equipo de trabajo. Lo más dificil sería estar bien comunicado con tus colaboradores y lo
-más facil sería hacer respaldos.
+
+R. I will have to invent some kind of VC system like a log file in excel and constantly
+be in communication with my team work. The hardest thing would be be well communicated
+with my co-workers. The easier thing would be create back-ups before every change.
 
 6.-¿When would you want to make changes in a separate branch rather than directly in master?
 What benefits does each approach have?
-R. Cuando quiero integrar algo nuevo, probar algo nuevo o simplemente rehacer algo es cuando
-haria los cambios en una rama diferente a la rama master. Los beneficios serian la estabilidad
-que tendria la rama master al no tener ningun cambio que no este lo suficientemente probado,
-otro beneficio seria la eficiencia al momento de desarrollar algo ya que no tienes las cadenas
-de estar atrapado con algo estable o productivo y así poder intentar mas cosas sin temor a romper
-algo.
+
+R. When i want to integrate something new, try something new or just rebuild something it is when
+i would make those changes in another branch not the master branch. The benefits would be the
+stability that the master branch will have because any change that it is not enough tested
+would not affect the main branch. Another benefit would be the efficiency by the moment of develop
+something that it is not the main or productive project so you could try more thing without
+the fear of broke the stable or productive project.

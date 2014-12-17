@@ -1,42 +1,49 @@
-1.-¿How did viewing a diff between two versions of a file help you see 
+1.-¿How did viewing a diff between two versions of a file help you see
 the bug that was introduced?
-R. Instead of comparing every line on the files with 'diff' i will see
-the lines that are diferent, so in the end i will be more focus on that
-lines.
 
-2.-¿How could having easy access to the entire history of a file make you 
+R. Instead of comparing every line on the files with the command 'diff'
+i will see the lines that are diferent, so in the end i will be more
+focused on those lines and i will be more efficient.
+
+2.-¿How could having easy access to the entire history of a file make you
 a more efficient programmer in the long term?
-R.It help to achive a better version control over the modifications been
+
+R. It help to achive a better version control over the modifications been
 made on a file so you can return to a specific point in the history file.
 
 3.-¿What do you think are the pros and cons of manually choosing when to
 create a commit, like you do in Git, vs having versions automatically
 saved, like Google docs does?
+
 R. The disadvantage of manually doing Commits is the predisposition
-to human errors as it might forget to do commits. The advantage that
-you have total control of when should Commits have to be done regardless
+to human errors as it might forget to do commits. The advantage would be
+that you have total control of when should Commits have to be done regardless
 of how long it takes because if you do it with Automatic commits this
-could commit when there is no logical change.
+could commit even when there is no logical change.
 
 4.-¿Why do you think some version control systems, like Git, allow saving
 multiple files in one commit, while others, like Google Docs, treat
 each file separately?
--R. Because Git was made thinking in programmers and by that saving multiples
+
+R. Because Git was made thinking in programmers and by that saving multiples
 files in one commit is normal for us, imagine a project with highly coupled
-files in that case is a good thing save multiples files.
+files, in that case is a good thing commit multiples files.
 
 5.-¿How can you use the commands git log and git diff to view the history
 of files?
--R. Git log is used to see in chronologically order the commits and the
+
+R. Git log is used to see in chronologically order the commits and the
 Git diff is used to see the differences between two commits. So with this
-tool we can see the life cycle of our project and files.
+tools we can see the life cycle of our project and files.
 
 6.-¿How might using version control make you more confident to make changes
 that could break something?
+
 R. Because i will have the option of return to a previous state/commit that
 is stable and work, VC gives me the confident to try things without fear to
 break somthing beyon repair.
 
 7.-¿Now that you have your workspace set up, what do you want to try using
 Git for?
+
 R. Create, modify and maintain personal and work projects.

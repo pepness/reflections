@@ -27,15 +27,16 @@ files in that case is a good thing save multiples files.
 
 5.-¿How can you use the commands git log and git diff to view the history
 of files?
--R. l comando 'git log' es para ver en orden cronologico y ascendente los
-commits efectuados, el comando 'git diff' es para comparar dos versiones
-y así poder analizar los cambios efectuados.
+-R. Git log is used to see in chronologically order the commits and the
+Git diff is used to see the differences between two commits. So with this
+tool we can see the life cycle of our project and files.
 
 6.-¿How might using version control make you more confident to make changes
 that could break something?
-R. Por que tendre la certeza de poder volver unas cuantas versiones atras
-y detectar los bugs que hayan aparecido.
+R. Because i will have the option of return to a previous state/commit that
+is stable and work, VC gives me the confident to try things without fear to
+break somthing beyon repair.
 
 7.-¿Now that you have your workspace set up, what do you want to try using
 Git for?
-R. Creación, modificación y mantenimiento de proyectos
+R. Create, modify and maintain personal and work projects.

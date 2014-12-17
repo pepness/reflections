@@ -22,7 +22,8 @@ the stable branch. Branches are very helpful becuase you can merge it with
 other branches in any moment and merge the code and later test it.
 
 5-.¿How do the diagrams help you visualize the branch structure?
-R. It gives me a much better global view.
+R. It gives me a much better global view of my repository, see every branch and
+every detail of my project history.
 
 6-.¿What is the result of merging two branches together? Why do we represent
 it in the diagram the way we do?
